@@ -1,3 +1,4 @@
 
-def divide(x,y):
-    return int(x/y)
+def division(x,y):
+
+    return x/y
