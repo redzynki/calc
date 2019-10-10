@@ -1,3 +1,7 @@
+from math import pi
+
+# it seems that, according to python intelligence, pi is moreover 3,141592654
+
 def area(radius):
 
-    return 3.14 * radius ** 2
+    return pi * radius ** 2
